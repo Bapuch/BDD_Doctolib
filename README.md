@@ -1,4 +1,4 @@
-## Exercice du Jeudi 25 Octobre sur ActiveRecord - MOOCacademy :sunny:
+## Exercice du Jeudi 25 Octobre sur les BDD relations avancées - Doctolib :sunny:
 
 ### Greetings
 
